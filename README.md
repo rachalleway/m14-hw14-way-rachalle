@@ -1,1 +1,2 @@
 # m14-hw14-way-rachalle
+For this assignment, I used Bootstrap components to make up my nav bar and the grid layout for my about section and interests sections. Additionally, I used Bootstrap to make up the image cards seen in my interests section and the buttons linking to my portfolio and resume in my career goals section.
